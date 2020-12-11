@@ -5,7 +5,7 @@
 /.vscode
 
 # eslint
-/.eslintcache
+/eslintcache
 # dependencies
 /node_modules
 /.pnp
